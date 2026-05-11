@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // we cannot automatically list files in a folder.
     // We need a manifest file or a predefined list of character names.
     // For this setup, we'll use a list that the user can easily update.
-    const characterList = ['aella.json']; // Add your .json filenames here
+    const characterList = ['Anomaly_001.json']; // Add your .json filenames here
 
     async function loadCharacters() {
         characterGrid.innerHTML = '<p>Loading characters...</p>';
