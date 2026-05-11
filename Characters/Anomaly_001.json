@@ -1,15 +1,15 @@
 {
-  "name": "Aella",
-  "age": "27",
-  "gender": "Female",
-  "species": "Elf",
-  "occupation": "Arcane Scholar",
+  "name": "ANOMLAY 001",
+  "age": "nil",
+  "gender": "nil",
+  "species": "nil",
+  "occupation": "nil",
   "appearance": {
-    "description": "Tall and slender, with long silver hair often braided with intricate beads. Her eyes are a striking emerald green, and she has delicate, pointed ears. She typically wears robes of deep blue and silver, adorned with celestial patterns.",
-    "image_url": "images/aella.jpg"
+    "description": "Tall and slender, all black to the point of no accessories or facial features",
+    "image_url": "images/null.jpg"
   },
-  "personality": "Reserved and studious, but fiercely loyal to her friends. She possesses a dry wit and a deep curiosity about ancient magic. Can be socially awkward at times.",
-  "backstory": "Born into a reclusive elven community, Aella showed an early aptitude for magic. She left her home to study at the Grand Arcane Academy, where she uncovered forgotten texts about a looming cosmic threat. Her research led her to become an independent scholar, seeking ways to protect the realm.",
+  "personality": "nil",
+  "backstory": "nil",
   "abilities_skills": [
     "High-level elemental magic (fire, ice, lightning)",
     "Ancient runic inscription",
