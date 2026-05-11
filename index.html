@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Character Wiki</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="dark-mode">
+    <header>
+        <h1>Character Wiki</h1>
+        <button id="refresh-btn">Refresh Characters</button>
+    </header>
+
+    <main>
+        <div id="character-grid" class="grid-container">
+            <!-- Character cards will be dynamically added here -->
+        </div>
+    </main>
+
+    <!-- Modal for character details -->
+    <div id="character-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <div id="modal-body">
+                <!-- Character details will be populated here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
