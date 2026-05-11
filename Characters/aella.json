@@ -1,0 +1,82 @@
+{
+  "name": "Aella",
+  "age": "27",
+  "gender": "Female",
+  "species": "Elf",
+  "occupation": "Arcane Scholar",
+  "appearance": {
+    "description": "Tall and slender, with long silver hair often braided with intricate beads. Her eyes are a striking emerald green, and she has delicate, pointed ears. She typically wears robes of deep blue and silver, adorned with celestial patterns.",
+    "image_url": "images/aella.jpg"
+  },
+  "personality": "Reserved and studious, but fiercely loyal to her friends. She possesses a dry wit and a deep curiosity about ancient magic. Can be socially awkward at times.",
+  "backstory": "Born into a reclusive elven community, Aella showed an early aptitude for magic. She left her home to study at the Grand Arcane Academy, where she uncovered forgotten texts about a looming cosmic threat. Her research led her to become an independent scholar, seeking ways to protect the realm.",
+  "abilities_skills": [
+    "High-level elemental magic (fire, ice, lightning)",
+    "Ancient runic inscription",
+    "Proficient in several dead languages",
+    "Minor healing spells",
+    "Exceptional memory"
+  ],
+  "equipment_inventory": [
+    "Staff of the Azure Sky (magical staff)",
+    "Leather-bound spellbook",
+    "Crystal amulet (focus for magic)",
+    "Pouch of rare herbs and components",
+    "Traveler's cloak"
+  ],
+  "relationships": [
+    {
+      "name": "Kaelen",
+      "type": "Friend/Fellow Adventurer",
+      "description": "A human warrior she met during her travels. They share a strong bond and often journey together."
+    },
+    {
+      "name": "Master Elara",
+      "type": "Mentor",
+      "description": "Her former professor at the Grand Arcane Academy, who encouraged her research into ancient magic."
+    }
+  ],
+  "notes_trivia": [
+    "Has a fondness for stargazing and astronomical charts.",
+    "Dislikes loud noises and crowded places.",
+    "Her favorite food is spiced berry tarts."
+  ],
+  "music": {
+    "Phase 1 - Introduction": [
+      {
+        "title": "Whispers of the Ancient Forest",
+        "artist": "Ethereal Echoes",
+        "file_path": "music/aella/phase1_whispers.mp3",
+        "description": "A gentle, mysterious track setting the scene for Aella's origins."
+      },
+      {
+        "title": "Scholarly Pursuit",
+        "artist": "Arcane Harmonies",
+        "file_path": "music/aella/phase1_scholarly.mp3",
+        "description": "Reflects her time at the academy, filled with discovery and quiet determination."
+      }
+    ],
+    "Phase 2 - Journey Begins": [
+      {
+        "title": "The Open Road",
+        "artist": "Wandering Minstrels",
+        "file_path": "music/aella/phase2_road.mp3",
+        "description": "An adventurous and hopeful tune as Aella embarks on her quest."
+      },
+      {
+        "title": "Shadows of Doubt",
+        "artist": "Mystic Melodies",
+        "file_path": "music/aella/phase2_shadows.mp3",
+        "description": "A more somber piece, hinting at the challenges and dangers ahead."
+      }
+    ],
+    "Phase 3 - Confrontation": [
+      {
+        "title": "Clash of Wills",
+        "artist": "Epic Soundscapes",
+        "file_path": "music/aella/phase3_clash.mp3",
+        "description": "An intense, action-packed track for moments of magical combat."
+      }
+    ]
+  }
+}
